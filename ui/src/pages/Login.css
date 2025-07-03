@@ -1,0 +1,14 @@
+.login-wrapper {
+  background: linear-gradient(to right, #f8f9fa, #e9ecef);
+  padding: 20px;
+}
+
+.login-box {
+  width: 100%;
+  max-width: 420px;
+}
+
+.project-title {
+  font-weight: 600;
+  color: #007bff;
+}

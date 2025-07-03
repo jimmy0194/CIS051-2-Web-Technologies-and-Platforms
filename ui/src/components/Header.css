@@ -1,0 +1,12 @@
+.app-header {
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.app-header h4 {
+  font-weight: 600;
+}
+
+.app-header button {
+  font-weight: 500;
+}
