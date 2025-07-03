@@ -30,7 +30,7 @@ A full-stack web application built with **React**, **Node.js**, **Express**, and
 
 ### 🔗 GitHub Repository
 ```
-[Insert your GitHub Repo URL here]
+[(https://github.com/jimmy0194/CIS051-2-Web-Technologies-and-Platforms/tree/main)]
 ```
 
 ---
@@ -121,6 +121,13 @@ Payload:
   "password": "admin123",
   "role": "admin"
 }
+{
+  "name": "Student User",
+  "email": "student@example.com",
+  "password": "student123",
+  "role": "student"
+}
+
 ```
 
 And similarly for students.
